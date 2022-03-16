@@ -19,7 +19,9 @@ Importante: baixar o webdriver
 Iniciando o desafio:
 
 1: Pegar a cotação do dólar
+
 1.1: Pegar a cotaão do Euro
+
 1.2: Pegar a cotação do ouro
 
 
@@ -33,7 +35,9 @@ Importando a base de dados:
 Atualizando os preços e o cálculo do Preço Final
 
 1: Calcular os novos preços e exportar a base de dados
+
 1.1: Atualizar as colunas
+
 2: Exportar a nova base de preços atualizada
 
 
